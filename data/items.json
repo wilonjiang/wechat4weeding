@@ -1,0 +1,43 @@
+[
+	[
+		 {
+			"Id": "wordpress",
+			"Name": "技术博客",
+			"NameTitle": "技术信息分享与讨论",
+			"Href": "http://10.1.1.121/wordpress/",
+			"Title": "信息分享与讨论",
+			"Description": "使用wordpress为团队搭建的技术博客，发布实时前沿信息与技术经验，鼓励大家互动讨论."
+		}, {
+			"Id": "office",
+			"Name": "资源共享系统",
+			"NameTitle": "团队内部共享的资源平台",
+			"Href": "http://10.1.1.121/office/",
+			"Title": "团队内部共享的资源平台",
+			"Description": "及其css、js、ue、服务端开发语言等多方面资源信息."
+		}, {
+			"Id": "bugfree",
+			"Name": "前端项目bug系统",
+			"NameTitle": "基于bugfree搭建的bug系统",
+			"Href": "http://10.1.1.121/bug/",
+			"Title": "前端项目bug系统",
+			"Description": "使用bugfree搭建的前端项目bug系统，用于管理团队所有程序bug."
+		}
+	],
+	[
+		{
+			"Id": "bankofdesktop",
+			"Name": "桌面版网银前端",
+			"NameTitle": "IE8以下勿入，最低分辨率1280",
+			"Href": "/bankofdesktop/index.html",
+			"Title": "VX桌面版网银前端项目预览",
+			"Description": "使用VX开发的网银桌面版网银前端，意在体现桌面应用与以用户为中心的结合."
+		},{
+			"Id": "api",
+			"Name": "VX API",
+			"NameTitle": "快速开发手册在线版",
+			"Href": "/api/index.html",
+			"Title": "VX开发API",
+			"Description": "API提供VX一系列成熟的基础服务,比如表达式、过滤器的用法."
+		}
+	]
+]
