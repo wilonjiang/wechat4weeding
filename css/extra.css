@@ -1,0 +1,115 @@
+#wrapper {
+	background-image: url(img/bg.png);
+	background-repeat: repeat-x;
+}
+footer {
+	background-image: url(img/footer-background.png);
+	background-repeat: repeat-x;
+	height: 405px;
+	padding-top: 50px;
+	color: #fff;
+}
+header {
+	position: fixed;
+	width: 100%;
+	z-index: 2;
+}
+nav {
+	background-image: url(img/header-background.png);
+	background-repeat: repeat-x;
+	height: 34px;
+	padding-top: 6px;
+	color: #fff;
+}
+nav ul li {
+	margin-left: 20px;
+}
+.banner-bg {
+	background-image: url(img/banner-background.png);
+	background-position: center;
+	background-repeat: repeat-x;
+	height: 500px;
+}
+.banner {
+	position: relative;
+}
+.banner .logo {
+	position: relative;
+	top: 55px;
+	left: 10px;
+}
+.banner .plane {
+	position: absolute;
+	top: 170px;
+	left: 60px;
+}
+.banner .bigplane {
+	position: absolute;
+	top: 70px;
+	left: 250px;
+}
+.banner .box {
+	position: absolute;
+	top: 170px;
+	left: 210px;
+}
+.slide-photo {
+	margin-bottom: 30px;
+	text-align: center;
+}
+.slide-photo ul {
+	margin-left: 0;
+}
+.slide-photo ul li {
+	display: inline-block;
+	margin-left: 20px;
+	border: 3px solid #e1ffff;
+	height: 88px;
+	line-height:88px;
+	text-align:center;
+	width: 106px;
+	background-image: url(img/slider-box-background.png);
+	box-shadow: -1px -2px 5px rgba(191,191,191,0.8);
+}
+.slide-photo ul li:first-child {
+	display: inline-block;
+	margin-left: 0;
+	border: 3px solid #e1ffff;
+	height: 88px;
+	line-height:88px;
+	text-align:center;
+	width: 106px;
+	background-image: url(img/slider-box-background.png);
+	box-shadow: -1px -2px 5px rgba(191,191,191,0.8);
+}
+.slide-photo ul li span {
+	
+}
+.info-box-border-left {
+	background-image: url(img/info-box-border-left.png);
+	background-repeat: no-repeat;
+	width: 5px;
+	height: 179px;
+	float: left;
+}
+.info-box-bg {
+	background-image: url(img/info-box-bg.png);
+	background-repeat: repeat-x;
+	height: 179px;
+	width: 450px;
+	float: left;
+}
+.info-box-border-right {
+	background-image: url(img/info-box-border-right.png);
+	background-repeat: no-repeat;
+	height: 179px;
+	width: 5px;
+	float: right;
+}
+footer button.twitter{
+	line-height:60px;
+	width:72px;
+	border-radius: 1000px;
+	
+}
+
